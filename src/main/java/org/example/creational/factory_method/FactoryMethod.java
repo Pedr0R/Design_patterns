@@ -1,4 +1,4 @@
-package org.example.factory_method;
+package org.example.creational.factory_method;
 
 // Produto (interface)
 interface Mensagem {

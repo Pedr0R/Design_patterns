@@ -1,4 +1,4 @@
-package org.example.astract_factory;
+package org.example.creational.astract_factory;
 
 // Abstract Factory: Cria famílias de produtos compatíveis entre si
 

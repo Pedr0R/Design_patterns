@@ -1,4 +1,4 @@
-package org.example.singleton;
+package org.example.creational.singleton;
 
 import java.util.HashMap;
 import java.util.Map;

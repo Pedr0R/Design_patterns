@@ -1,4 +1,4 @@
-package org.example.adapter;// Adapter: converte a interface de uma classe existente na interface
+package org.example.structural.adapter;// Adapter: converte a interface de uma classe existente na interface
 // que o cliente espera, permitindo que classes incompatíveis trabalhem juntas.
 
 // Interface esperada pelo cliente (Target)

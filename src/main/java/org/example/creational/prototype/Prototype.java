@@ -1,4 +1,4 @@
-package org.example.prototype;
+package org.example.creational.prototype;
 
 import java.util.ArrayList;
 import java.util.HashMap;

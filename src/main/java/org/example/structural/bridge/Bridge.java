@@ -1,4 +1,4 @@
-package org.example.bridge;
+package org.example.structural.bridge;
 // Bridge: separa uma abstração da sua implementação, para que as duas
 // possam variar de forma independente (evita a explosão de subclasses).
 
