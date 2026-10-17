@@ -109,8 +109,8 @@ public class Decorator {
     public static void main(String[] args) {
         // Os decorators são empilhados como camadas: Log -> Cache -> Retry -> Banco
         BuscadorDeProdutos servico =
-                new LogDecorator(
                         new CacheDecorator(
+                new LogDecorator(
                                 new RetryDecorator(
                                         new BuscadorBancoDados(), 3)));
 
